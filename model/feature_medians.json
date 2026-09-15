@@ -1,0 +1,14 @@
+{
+  "Bwd Packet Length Mean": 120.5,
+  "Average Packet Size": 250.0,
+  "Packet Length Variance": 3500.0,
+  "Flow Bytes/s": 15000.0,
+  "Init_Win_bytes_forward": 8192,
+  "Flow IAT Mean": 4500.0,
+  "Total Length of Fwd Packets": 600,
+  "Bwd Packets/s": 45.0,
+  "Fwd IAT Mean": 3000.0,
+  "Flow Duration": 120000,
+  "Subflow Fwd Bytes": 600,
+  "Fwd Packet Length Max": 500
+}
